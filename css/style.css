@@ -3,7 +3,7 @@ margin-top: 0px;
 margin-bottom: 0px;
 margin-left: 0px;
 margin-right: 0px;}
-body,html {
+body{
 color:#434455;
 font-family: 'Roboto', sans-serif;
 background: #FFFFFF;
@@ -27,7 +27,7 @@ gap: 40px;
 .design-logo{
     color:  #2E2F42;
     font-size: 18px;
-    line-height: 1.17; 
+    line-height: 1.11; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -36,7 +36,7 @@ gap: 40px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
 font-size: 18px;
-line-height: 1.1;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
