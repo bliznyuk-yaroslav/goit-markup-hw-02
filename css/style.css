@@ -9,7 +9,6 @@ ul,ol{
 a{
     text-decoration: none;
 }
-
 .design-logo{
     color:  #2E2F42;
     font-size: 18px;
@@ -41,6 +40,9 @@ letter-spacing: 0.02em;
 }
 .menu-list-item{
     color: #2E2F42;
+}
+.address{
+    font-style: normal;
 }
 .menu-navigation-studio:active{
   text-decoration: underline;  
@@ -176,6 +178,15 @@ flex-shrink: 0;
     text-transform: uppercase;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
+}
+.design-logo-footer{
+    color: #f4f4fd;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 }
 .footer-text{
     color:#F4F4FD;
