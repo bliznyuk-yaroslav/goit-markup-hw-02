@@ -9,11 +9,7 @@ ul,ol{
 a{
     text-decoration: none;
 }
-.main-page{
 
-}
-.page-nav{
-}
 .design-logo{
     color:  #2E2F42;
     font-size: 18px;
@@ -49,18 +45,12 @@ letter-spacing: 0.02em;
 .menu-navigation-studio:active{
   text-decoration: underline;  
 }
-
-.menu address{
-}
-.page-address{
-}
 .menu-addres-list-link{
-    font-style: normal
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
 }
 .menu-addres-list-link:hover,
 .menu-addres-list-link:focus{
@@ -92,16 +82,6 @@ font-weight: 500;
 background: #404bbf;
 }
 
-.hero-button-text{
-   
-}
-.sect-advans{
- 
-   
-}
-.advans-lists{
- 
-}
 .sect-advans-blocks{
 font-size: 40px;
 }
@@ -131,13 +111,8 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
 }
-.sect-team-list{
-  
-}
 .sect-team-blocks{
     background-color: #FFFFFF;
-}
-.team-foto{
 }
 .team-name{
     color: #2E2F42;
@@ -164,11 +139,6 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
-}
-.portfolio-list{
-}
-.porfolio-blocks{
- 
 }
 .portfolio-link{
 color: #2E2F42;
