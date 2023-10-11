@@ -4,12 +4,12 @@ margin-bottom: 0px;
 margin-left: 0px;
 margin-right: 0px;}
 body,html {
-color: #F4F4FD;
+color: #434455;
     padding: 40px 40px 40px 40px;
     font-family: 'Roboto', sans-serif;
     width: 1440px;
 height: 3300px;
-background: #FFF;
+background: #FFFFFF;
 }
 ul,ol{
     list-style-type: none;
