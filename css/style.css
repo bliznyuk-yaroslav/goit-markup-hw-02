@@ -53,7 +53,7 @@ letter-spacing: 0.02em;
 .menu address{
 }
 .page-address{
-   
+    font-style: normal
 }
 .menu-addres-list-link{
     font-size: 16px;
@@ -70,7 +70,8 @@ background:#2e2f42;
     color: #FFF;
     font-size: 56px;
     line-height: 1.11;
-    letter-spacing: 0.02em; 
+    letter-spacing: 0.02em;
+    font-style: normal;
 }
 .hero-button{
     cursor: pointer;
@@ -78,7 +79,7 @@ background:#4D5AE5;
 }
 .hero-button:hover,
 .hero-button:focus{
-background: #404BBF;
+background: #404bbf;
 }
 
 .hero-button-text{
